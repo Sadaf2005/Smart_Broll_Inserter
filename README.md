@@ -186,9 +186,17 @@ cd frontend
 npm install
 
 ```
+
+
 ## 2️⃣ Start React app
 
 ```
-2️⃣ Start React app
+npm start
 ```
 
+
+## Sharing Environmental File (.env)
+```
+OPENAI_API_KEY=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
+
+```
