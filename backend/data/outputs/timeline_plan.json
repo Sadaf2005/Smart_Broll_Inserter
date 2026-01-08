@@ -1,0 +1,40 @@
+{
+  "total_insertions": 5,
+  "insertions": [
+    {
+      "start_sec": 11.76,
+      "duration_sec": 2.0,
+      "broll_id": "broll_5",
+      "confidence": 0.2,
+      "reason": "B-roll selected because it visually reinforces the spoken content: ' I specialize in building modular cloud-ready application who's in React,'"
+    },
+    {
+      "start_sec": 26.08,
+      "duration_sec": 2.0,
+      "broll_id": "broll_5",
+      "confidence": 0.29,
+      "reason": "B-roll selected because it visually reinforces the spoken content: ' I focus on creating tech that is not just functional, but also efficient, scalable, and maintainable.'"
+    },
+    {
+      "start_sec": 32.88,
+      "duration_sec": 2.0,
+      "broll_id": "broll_5",
+      "confidence": 0.38,
+      "reason": "B-roll selected because it visually reinforces the spoken content: ' I love crafting projects that combine clean UI with intelligent backing logic to make a real'"
+    },
+    {
+      "start_sec": 38.0,
+      "duration_sec": 2.0,
+      "broll_id": "broll_5",
+      "confidence": 0.16,
+      "reason": "B-roll selected because it visually reinforces the spoken content: ' difference in people's life. I would say that I'm not only a collaborative team there,'"
+    },
+    {
+      "start_sec": 43.44,
+      "duration_sec": 2.0,
+      "broll_id": "broll_5",
+      "confidence": 0.15,
+      "reason": "B-roll selected because it visually reinforces the spoken content: ' but also someone who takes complete ownership of the task from start to finish.'"
+    }
+  ]
+}
